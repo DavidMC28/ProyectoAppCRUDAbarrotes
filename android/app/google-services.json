@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047759353392",
+    "project_id": "abarrotescrud",
+    "storage_bucket": "abarrotescrud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047759353392:android:a3094f9e2e6857813c9ff5",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6MXi4QCnAKxUeMzlsbH4IYpwmrB9Eat8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
